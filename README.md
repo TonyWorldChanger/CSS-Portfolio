@@ -8,7 +8,7 @@ No installation required
 
 ## Usage
 
-[Github Page Address]
+[Github Page Address](https://tonyworldchanger.github.io/CSS-Portfolio/)
 
  There are 4 main navigation buttons at the top of the screen
  - About Me
