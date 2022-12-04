@@ -144,10 +144,27 @@ p {
     color: white;
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
-    border: 5px solid white;
+    border: 2px solid red;
 }
 
-.Contact-Me ul li {
-    display: inline-block;
-    margin-right: 20px;
+.Contact-Me h3 {
+    font-size: 48px;
+}
+
+.Contact-Me ul {
+    list-style-type: none;
+}
+
+
+@media screen and (max-width: 992px) {
+    body {
+        background: white;
+        color: black;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .Contact-Me {
+        color: black;
+    }
 }
