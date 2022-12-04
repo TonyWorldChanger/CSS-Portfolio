@@ -16,6 +16,7 @@ No installation required
  - Contact Me
  - Resume
         All will work (except resume for now, due to not having a resume for we) to navigate you to the main parts of the page.
+- The Journey section has a hover feature that will eventually be used to take the user to another page with examples and projects completed.
 
  ### ScreenShot of Portfolio
 ![screen shot of module 1 challenge 1](assets\Images\portfolio-screen-shot.PNG)
