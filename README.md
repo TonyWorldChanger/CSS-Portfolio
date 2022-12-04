@@ -15,7 +15,8 @@ No installation required
  - The Journey (shows what I've been learning)
  - Contact Me
  - Resume
-        All will work (except resume for now, due to not having a resume for we) to navigate you to the main parts of the page.
+ 
+        - All will work (except resume for now, due to not having a resume for we) to navigate you to the main parts of the page.
 - The Journey section has a hover feature that will eventually be used to take the user to another page with examples and projects completed.
 
  ### ScreenShot of Portfolio
